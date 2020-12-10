@@ -1,0 +1,1 @@
+1. Currently, redocking is only done for protein-ligand complexes. Implement this for protein-protein complexes as well.
